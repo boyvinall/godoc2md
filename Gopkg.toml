@@ -1,0 +1,8 @@
+
+[[constraint]]
+  revision = "2f84ea8ef8720b418a1414ed610df828e1db1b3b"
+  name = "golang.org/x/tools"
+
+[prune]
+  go-tests = true
+  unused-packages = true
